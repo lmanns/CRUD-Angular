@@ -1,6 +1,7 @@
 # AngularCrud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+Este proyecto fue generado mediante [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+
 # Ejecutar proyecto
 
 Ejecute el comando 'npm install' para que node pueda instalar las dependencias del proyecto en la carpeta 'node_modules'. 
