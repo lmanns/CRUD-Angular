@@ -1,0 +1,35 @@
+span {
+    width: 130px;
+}
+
+.main-container {
+    border: 1px solid blue; 
+    border-radius: 8px; 
+    margin-top: 50px; 
+    width: 100%;
+}
+
+.mb-form {
+    margin-bottom: 10px;
+}
+
+.mr-button {
+    margin-right: 10px;
+}
+
+.m-button-table {
+    margin-right: 5px;
+}
+.m-error {
+    margin-top: -16px;
+}
+.margin-table-container {
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .m-button-table {
+        margin-right: 0px;
+        margin-bottom: 5px;
+    }
+}
